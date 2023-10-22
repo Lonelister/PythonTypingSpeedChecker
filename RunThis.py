@@ -1,7 +1,5 @@
 import time
-from colorama import Fore, Style
 
-# Zdefiniuj poziomy trudności i plik CustomLevel.txt
 difficulty_levels = {
     "Challenges": {
         "Runner": "A long sentence is a sentence that has a lot of words and is difficult to understand. Often such sentences are unnecessarily complicated and unclear. Therefore, it is important to write short and concise sentences that are easy to read and understand.",
